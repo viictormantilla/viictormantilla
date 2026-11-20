@@ -40,7 +40,7 @@
 
 ### 📫 Conecta conmigo
 
-[![Email](https://img.shields.io/badge/Email-victor.mantilla@thecloud.group-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.mantilla@thecloud.group)
+[![Email](https://img.shields.io/badge/Email-victor.mantilla@thecloud.group-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viictormantilla@gmail.com)
 
 </div>
 
