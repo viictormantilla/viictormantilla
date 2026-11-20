@@ -16,7 +16,7 @@
 
 ### 🛠️ Mi Stack Tecnológico
 
-<div align="center">
+<div>
 
 **Lenguajes:**
 
@@ -36,7 +36,7 @@
 
 <br>
 
-<div align="center">
+<div>
 
 ### 📫 Conecta conmigo
 
@@ -51,7 +51,7 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=victormantilla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Victor" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormantilla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" height="180em" />
 </div>
