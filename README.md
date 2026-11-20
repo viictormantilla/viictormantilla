@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # ¡Hola! 👋 Soy Victor Javier Mantilla
 
@@ -40,7 +40,7 @@
 
 ### 📫 Conecta conmigo
 
-[![Email](https://img.shields.io/badge/Email-victor.mantilla@thecloud.group-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viictormantilla@gmail.com)
+[![Email](https://img.shields.io/badge/Email-viictormantilla@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viictormantilla@gmail.com)
 
 </div>
 
